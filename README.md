@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafios Módulo 3 - Iniciando no Back-end
+  Desafios Módulo 4 - Controle de Academia
 </h3>
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
@@ -22,16 +22,20 @@
 
 <p align="center">
   <a href="#rocket-desafios">Desafios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 ## :rocket: Desafios
 
-- [Primeiro servidor](desafios/03-1-primeiro-servidor.md)
-- [Arquivos nunjucks e dados dinâmicos](desafios/03-2-nunjucks-e-dados-dinamicos.md)
-- [Página de descrição do curso](desafios/03-3-pagina-descricao-curso.md)
-- [Refatorando Foodfy](desafios/03-refatorando-foodfy.md)
+- [Header](desafios/04-1-header.md)
+- [Card do Professor](desafios/04-2-card-teacher.md)
+- [Formulário e Rota de cadastro do Professor](desafios/04-3-form-and-routes-teacher.md)
+- [Apresentação, edição e formatação dos dados de um professor](desafios/04-4-show-edit-format-teacher.md)
+- [HTTP: PUT e DELETE](desafios/04-5-put-delete-teacher.md)
+- [Listagem de professores](desafios/04-6-list-teachers.md)
+- [Estruturando estudantes](desafios/04-7-students.md)
+- [Administração do Foodfy](desafios/04-admin-foodfy.md)
 
 ## :calendar: Entrega
 

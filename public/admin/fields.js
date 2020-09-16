@@ -44,7 +44,7 @@ function deleteInput(e){
     if (e.target && (e.target.tagName == "i" || e.target.tagName == "I" ) ){
         const targetField = e.target.parentElement.parentElement
         targetField.remove()
-	}
+	
 }
 
 document.querySelector("#addIngredient").addEventListener("click", function(){
